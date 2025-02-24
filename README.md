@@ -94,8 +94,8 @@
     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QrgsrSEhYcLfaBnjJ_yWG6SDuZ1xIIvo-Q&s" alt="Azure" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascalgaro2&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=333&locale=en&layout=compact" alt="lucascalgaro2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascalgaro&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=333&locale=en&layout=compact" alt="lucascalgaro2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascalgaro2&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=333&hide_border=true&locale=en" alt="lucascalgaro2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascalgaro&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=333&hide_border=true&locale=en" alt="lucascalgaro2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascalgaro2&theme=dark" alt="lucascalgaro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascalgaro&theme=dark" alt="lucascalgaro" /></p>
