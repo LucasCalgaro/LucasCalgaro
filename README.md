@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Eduardo Calgaro</h1>
 <h3 align="center">A Fullstack developer starting in UX Design from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascalgaro2&label=Visualiza%C3%A7%C3%B5es&color=9d0101&style=flat" alt="lucascalgaro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascalgaro&label=Visualiza%C3%A7%C3%B5es&color=9d0101&style=flat" alt="lucascalgaro" /> </p>
 
 - 🌱 I'm currently focused on NextJS and UX Desing
 
